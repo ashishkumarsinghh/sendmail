@@ -6,4 +6,3 @@ Simplified lib for sending mail.
 
 - Sendgrid
 - Mailgun
-- SparkPost
