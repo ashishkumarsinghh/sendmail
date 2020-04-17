@@ -1,5 +1,5 @@
 {
-  "name": "sendmail",
+  "name": "sgmgmail",
   "version": "1.0.0",
   "description": "simplified library for sending mails",
   "main": "index.js",
